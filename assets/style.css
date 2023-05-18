@@ -1,0 +1,132 @@
+body{
+    background-color: #161518;
+    color: #fff;
+}
+
+.pink{
+    color: #FF5477;
+}
+
+.white-outline{
+    color: #fff;
+    border: #FFf solid 1px;
+}
+
+.white-outline:hover{
+    color: #FF5477;
+    border: #FF5477 solid 1px;
+}
+
+.pink-outline{
+    color: #FF5477;
+    border: #FF5477 solid 1px;
+}
+.pink-outline:hover{
+    color: #fff;
+    border: #FFf solid 1px;
+}
+
+.pink-outline-btn{
+    color: #FF5477;
+    border: #FF5477 solid 1px;
+}
+.pink-outline-btn:hover{
+    color: #000;
+    background-color: #FF5477;
+}
+
+.offcanvas ,.navbar{
+    background-color: #161518;
+}
+
+.nav-link{
+    color: white;
+}
+
+.pix{
+    width: 340px;
+    height: 190px;
+}
+
+.hero{
+  background: url("./static/images/futuristic\ car\ design\ 1.png") no-repeat right top;
+  padding: 50px;
+  height: 100%;
+}
+
+.bt-hero{
+  background: url("./static/images/unsplash_A53o1drQS2k.png") no-repeat right top;
+  padding: 50px;
+  width: 100%;
+}
+
+input[type='search']{
+    border: none;
+    background-color: #343438;
+    width: 100%;
+    border-radius: 10px 0 0 10px;
+    padding: 10px;
+}
+
+input[type='email'],input[type='password']{
+    border: none;
+    background-color: #343438;
+    /* width: 100%; */
+    /* border-radius: 10px 0 0 10px; */
+    /* padding: 10px; */
+}
+
+button[type='submit']{
+    background-color: #FF5477;
+    /* width: 50%; */
+    margin-left: 10px;
+    border-radius: 0 10px 10px 0;
+}
+
+.badge{
+    background-color: #343438;
+}
+
+.card-container{
+    background-color: #343438;
+    border-radius: 10px;
+}
+
+a{
+    color: #fff;
+}
+
+.bi-arrow-left, .bi-arrow-right{
+    color: #343438;
+}
+
+.logo-2{
+    width: 50%;
+}
+
+.n-b{
+    background-color: #bababa;
+    color: #000;
+}
+
+footer{
+    color: #bdbdbd;
+    background-color: #343438;
+}
+
+footer .nav-link{
+    color: #bdbdbd;
+}
+
+.ac{
+    border-bottom: 2px solid #fff;
+}
+
+.remove{
+    background-color: #FF5477;
+    color: #Fff;
+}
+
+/* .car-display{
+    height: 200px;
+} */
